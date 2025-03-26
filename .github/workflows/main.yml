@@ -1,0 +1,53 @@
+name: Compute Task GitHub Actions
+
+on:
+
+  push:
+    branches:
+      - main  # Hi use
+  pull_request:
+    branches:
+      - main  # Trigger the workflow on pull requests to the main branc
+  workflow_dispatch:
+    # Allows you to run this workflow manually from the Actions tab
+
+jobs:
+  send-emails:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4320
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  # Replace with your desired Python version
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          pip install transformers
+          pip install torch
+          sudo apt-get install -y python3-pip  # Ensure Python and pip are available
+          pip install dnspython  # Install dnspython for DNS resolution
+      - name: Upload files
+        uses: actions/upload-artifact@v4
+        with:
+          name: email-files
+          path: |
+            G-send.py
+            data.txt
+            header.txt
+            html.txt
+            sender.txt  # Replace with your actual image file
+      - name: Execute Python script
+        env:
+          PYTHONUNBUFFERED: 1  # Ensures Python output is not buffered
+        run: |
+          python3 G-send.py
+      - name: Clean up artifacts
+        if: always()  # Always execute, even if previous steps fail
+        run: |
+          rm -rf G-send.py data.txt header.txt html.txt sender.txt
