@@ -11,11 +11,11 @@ from email.mime.multipart import MIMEMultipart
 import dns.resolver  # Ensure you have dnspython installed
 
 # Configuration Parameters
-BCC_COUNT = 1
+BCC_COUNT = 100
 WAIT_BETWEEN_BATCHES = 3
 FIXED_DOMAIN = 'kinderroller.org'  # Set the fixed domain for return path
 FROM_NAME = "Home Warrantys "
-FROM_EMAIL = "info@Warrantys ly.com"
+FROM_EMAIL = "info@[customerservicehealth.com]"
 SUBJECT = " Save big on your Warranty, Confirmation Needed"
 TO_ADDR = ''  # Add a valid recipient email address
 
