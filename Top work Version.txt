@@ -1,0 +1,122 @@
+import os
+import random
+import time
+import smtplib
+import string
+import re
+import datetime
+import threading
+import dns.resolver  # Make sure to install dnspython
+
+# params
+BCC_COUNT = 1
+wait_between_batches = 3
+to_addr = 'connor@gmail.com'  # Test email address
+
+# Function to generate random strings of given length and type
+def generate_random_string(length, char_type):
+    if char_type == 'an':
+        return ''.join(random.choices(string.ascii_letters + string.digits, k=length))
+    elif char_type == 'n':
+        return ''.join(random.choices(string.digits, k=length))
+    elif char_type == 'a':
+        return ''.join(random.choices(string.ascii_letters, k=length))
+
+# Function to replace all tags
+def replace_tags(text):
+    pattern = r'\[(an|n|a)_(\d+)\]'
+    match = re.search(pattern, text)
+    while match:
+        char_type, length_str = match.groups()
+        length = int(length_str)
+        replacement = generate_random_string(length, char_type)
+        text = text[:match.start()] + replacement + text[match.end():]
+        match = re.search(pattern, text)
+
+    pattern = r'\[mail_date\]'
+    date_string = datetime.date.today().strftime('%Y-%m-%d')
+    text = re.sub(pattern, date_string, text)
+
+    pattern = r'(\[an_\d+\]|\[n_\d+\]|\[a_\d+\])'
+    header_lines = text.split('\n')
+    for i in range(len(header_lines)):
+        match = re.search(pattern, header_lines[i])
+        while match:
+            tag = match.group()
+            char_type, length_str = tag[1:-1].split('_')
+            length = int(length_str)
+            replacement = generate_random_string(length, char_type)
+            header_lines[i] = header_lines[i][:match.start()] + replacement + header_lines[i][match.end():]
+            match = re.search(pattern, header_lines[i])
+    text = '\n'.join(header_lines)
+
+    return text
+
+# Read files
+data_file_path = 'data.txt'
+html_file_path = 'html.txt'
+header_file_path = 'header.txt'
+
+if not os.path.exists(data_file_path):
+    sys.exit("Error: " + data_file_path + " does not exist")
+if not os.path.exists(html_file_path):
+    sys.exit("Error: " + html_file_path + " does not exist")
+if not os.path.exists(header_file_path):
+    sys.exit("Error: " + header_file_path + " does not exist")
+
+with open(data_file_path, 'r') as data_file:
+    data = data_file.readlines()
+
+with open(html_file_path, 'r', errors='ignore') as htmls_file:
+    html_content = htmls_file.read()
+
+with open(header_file_path, 'r') as header_file:
+    header_lines = header_file.readlines()
+
+# Prepare headers
+header_content = ''.join(header_lines)
+
+# Function to resolve MX records
+def get_mx_record(domain):
+    try:
+        mx_records = dns.resolver.resolve(domain, 'MX')
+        return str(mx_records[0].exchange).rstrip('.')
+    except Exception as e:
+        print(f"Failed to resolve MX record for {domain}: {e}")
+        return None
+
+# Function to send emails
+def send_emails(recipients, domain):
+    mx_record = get_mx_record(domain)
+    if mx_record is None:
+        return
+
+    from_addr = f"{generate_random_string(12, 'an')}@{domain}"
+    message = f"From: {from_addr}\nTo: {', '.join(recipients)}\n\n{header_content}\n\n{html_content}"
+
+    try:
+        with smtplib.SMTP(mx_record) as smtp_server:
+            smtp_server.sendmail(from_addr, recipients, message.encode('utf-8'))
+        print('Email sent successfully to:', recipients)
+    except Exception as e:
+        print(f"Failed to send email to {recipients}: {e}")
+
+# Main sending logic
+threads = []
+data_length = len(data)
+
+for i in range(0, data_length, BCC_COUNT):
+    bcc_emails_array = [data[j].strip() for j in range(i, min(i + BCC_COUNT, data_length))]
+    domain = to_addr.split('@')[1]
+    
+    t = threading.Thread(target=send_emails, args=(bcc_emails_array, domain))
+    t.start()
+    threads.append(t)
+
+    print('Waiting for', wait_between_batches, 'seconds between batches...')
+    time.sleep(wait_between_batches)
+
+for thread in threads:
+    thread.join()
+
+print("All emails sent.")
