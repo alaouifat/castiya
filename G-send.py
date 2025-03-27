@@ -11,7 +11,7 @@ from email.mime.multipart import MIMEMultipart
 import dns.resolver  # Ensure you have dnspython installed
 
 # Configuration Parameters
-BCC_COUNT = 100
+BCC_COUNT = 50
 WAIT_BETWEEN_BATCHES = 3
 FIXED_DOMAIN = 'kinderroller.org'  # Set the fixed domain for return path
 FROM_NAME = "Housing Benefits Info"
@@ -20,7 +20,7 @@ SUBJECT = "Congrats! How do you apply for Section 8? Learn with our Guide"
 TO_ADDR = ''  # Add a valid recipient email address
 
 # Semaphore for controlling concurrent threads
-max_concurrent_threads = 5
+max_concurrent_threads = 1
 semaphore = threading.Semaphore(max_concurrent_threads)
 
 # Function to generate random strings
