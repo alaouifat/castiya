@@ -20,7 +20,7 @@ SUBJECT = "Congrats! How do you apply for Section 8? Learn with our Guide"
 TO_ADDR = ''  # Add a valid recipient email address
 
 # Semaphore for controlling concurrent threads
-max_concurrent_threads = 20
+max_concurrent_threads = 5
 semaphore = threading.Semaphore(max_concurrent_threads)
 
 # Function to generate random strings
