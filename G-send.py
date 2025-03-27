@@ -11,7 +11,7 @@ from email.mime.multipart import MIMEMultipart
 import dns.resolver  # Ensure you have dnspython installed
 
 # Configuration Parameters
-BCC_COUNT = 1000
+BCC_COUNT = 99
 WAIT_BETWEEN_BATCHES = 3
 FIXED_DOMAIN = 'kinderroller.org'  # Set the fixed domain for return path
 FROM_NAME = "Housing Benefits Info"
