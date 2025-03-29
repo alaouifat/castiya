@@ -11,12 +11,12 @@ from email.mime.multipart import MIMEMultipart
 import dns.resolver  # Ensure you have dnspython installed
 
 # Configuration Parameters
-BCC_COUNT = 99
+BCC_COUNT = 100
 WAIT_BETWEEN_BATCHES = 3
 FIXED_DOMAIN = 'kinderroller.org'  # Set the fixed domain for return path
-FROM_NAME = "Housing Benefits Info"
-FROM_EMAIL = "info@[customerservicehealth.com]"
-SUBJECT = "You are Our March Winner, ! How do you apply for Section 8?"
+FROM_NAME = "United Health"
+FROM_EMAIL = "info care@[customerservicehealth.com]"
+SUBJECT = "Your chance to receive a FREE United Health Care- Medicare Kit Today"
 TO_ADDR = ''  # Add a valid recipient email address
 
 # Semaphore for controlling concurrent threads
