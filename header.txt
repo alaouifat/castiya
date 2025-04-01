@@ -3,7 +3,7 @@
 
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
- <title>Aarpt  Exclusive</title>
+ <title>aaAA  Exclusive</title>
 
  <style>
 
@@ -11,8 +11,8 @@
 
     background-repeat: no-repeat;
 
-    background-image: url('https://aarp-states.brightspotcdn.com/f2/7a/77f7dbe54a67bb20cfbc5647d6c7/aarp-in-4c.png');
-        background-image: url('//aarp-states.brightspotcdn.com/f2/7a/77f7dbe54a67bb20cfbc5647d6c7/aarp-in-4c.png');
+    background-image: url('https://sweetwaternow.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2019/03/AAA-Insurance-LOGO.png');
+        background-image: url('//sweetwaternow.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2019/03/AAA-Insurance-LOGO.png');
 
 
  }
@@ -113,9 +113,9 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
  background-size: contain;
 
- background-image: url('https://cdn.aarp.net/content/dam/aarpe/en/home/membership/benefits/ways-to-use-your-member-card-immediately/_jcr_content/root/container_main/container_body_main/list_container_body2/container_body_cf/body_two_cf_listicle_four/cfimage.coreimg.50.932.jpeg/content/dam/aarp/benefits_discounts/mbch-mlp/maximize-your-aarp-membership/1140x655-man-woman-sitting-close-couch-tablet-aarp-membership-card-in-hand.jpg');
+ background-image: url('https://mobileimages.lowes.com/productimages/caea16c4-b0d9-446a-8e8c-9d7edf635b74/14125957.jpg');
 
- background-image: url('//cdn.aarp.net/content/dam/aarpe/en/home/membership/benefits/ways-to-use-your-member-card-immediately/_jcr_content/root/container_main/container_body_main/list_container_body2/container_body_cf/body_two_cf_listicle_four/cfimage.coreimg.50.932.jpeg/content/dam/aarp/benefits_discounts/mbch-mlp/maximize-your-aarp-membership/1140x655-man-woman-sitting-close-couch-tablet-aarp-membership-card-in-hand.jpg');
+ background-image: url('//mobileimages.lowes.com/productimages/caea16c4-b0d9-446a-8e8c-9d7edf635b74/14125957.jpg');
 
 }
 
@@ -295,9 +295,9 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
  <tr>
 
-    <td align="center" class="alignment" style=" margin-bottom: 5px; margin-top: 10px; display: block; background-position: center;  background-size: contain; " id="logo1" background="//aarp-states.brightspotcdn.com/f2/7a/77f7dbe54a67bb20cfbc5647d6c7/aarp-in-4c.png">
+    <td align="center" class="alignment" style=" margin-bottom: 5px; margin-top: 10px; display: block; background-position: center;  background-size: contain; " id="logo1" background="//sweetwaternow.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2019/03/AAA-Insurance-LOGO.png">
 
-        <a href="https://email.mg2.substack.com/c/eJxUkc-L3CAcxf-aeGswaowePHRLQ5ehs5RlKZ2LGP0mcSa_NmqG9DB_e0l7KHt-j8fnw7MmQjevu2pXgE93GOw8AnKKuUKUAoEqKkZZRSUXCEbjB93BBKuJ4LSJ_9OKVwL1iphW2Na0VSElGMspkdZRYUTBWwcYkFcEkxIzXGBSSMJzmhtiS6igZCUvrGRt3l3tdcHAM4bHjuQhNSEae8vtPCIf9EF6kKi4JkCD6mNcQkY_Z6TOSL2ZEAzAUc5IfT79-NW_6Ze727dL_fz6lJrv7Wl3X27l1pPLSWsRn9-KrWNJSD6cx0V7c3NPL-l17-x1ET-vw7fLWU9f37f3ktclrai9Px5oSY228zimycddw2SaAdw_oiU1g7cm-nnS3ikiJWekQqtqTfSjcbD9nvvVZAx3h8ZfrZAaN4_GT2rp9-BtCNbDZAHFj8ekAOsxSonkBFeYok2RPwEAAP__JxOWRw" style="outline:none; height: 100px; display: block;" tabindex="-1" target="_blank"></a>
+        <a href="https://email.mg-d1.substack.com/c/eJxUkctuEzEYhZ9mvGvk60y88CJUHRUo0AoSSDYjX34nJp6LxnaiYdFnRykbuj5HR9-nY3WG4zgvys8Ad1eIduwBOcWkwWtbI1Ck4UzwmlKJoNchdkcYYNYZXKfzfynHBJ1U7Q0xTEhrnDRrx73TTNC6FkZ444lGQVFMBeaYUEoZlyu20tQKaEBwURMruV8ZeiVNLOeK4_5458gqFZOytueVHXsUUneDvbGoPBdAUZ1ynlLFNhVtK9pedEoa4FauaPv188v-tO2-Xd1yObQfv38o5otvyXNkbvp5eDjf13z9Z_t8v0h4Id3G7-zgPv3ST9Fsf_O0a_fGH9a7R-_hx2Oz2T88bUPabV5f0VRMZ8e-L0PISweDNhHcP6KpmBiszmEcuuAUlbLmtEGz0lGPJXid-1BxfLw5vDmlYtzY6zCo6bSkYFOyAQYLKL8_piSY3xZZQwUhGKOLon8DAAD__wBIlMw" style="outline:none; height: 100px; display: block;" tabindex="-1" target="_blank"></a>
 
     </td>
 
@@ -311,7 +311,7 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
  </table>
 
- <a style="text-decoration: none;" href="https://email.mg2.substack.com/c/eJxUkc-L3CAcxf-aeGswaowePHRLQ5ehs5RlKZ2LGP0mcSa_NmqG9DB_e0l7KHt-j8fnw7MmQjevu2pXgE93GOw8AnKKuUKUAoEqKkZZRSUXCEbjB93BBKuJ4LSJ_9OKVwL1iphW2Na0VSElGMspkdZRYUTBWwcYkFcEkxIzXGBSSMJzmhtiS6igZCUvrGRt3l3tdcHAM4bHjuQhNSEae8vtPCIf9EF6kKi4JkCD6mNcQkY_Z6TOSL2ZEAzAUc5IfT79-NW_6Ze727dL_fz6lJrv7Wl3X27l1pPLSWsRn9-KrWNJSD6cx0V7c3NPL-l17-x1ET-vw7fLWU9f37f3ktclrai9Px5oSY228zimycddw2SaAdw_oiU1g7cm-nnS3ikiJWekQqtqTfSjcbD9nvvVZAx3h8ZfrZAaN4_GT2rp9-BtCNbDZAHFj8ekAOsxSonkBFeYok2RPwEAAP__JxOWRw" target="_blank" style="text-decoration:none;">
+ <a style="text-decoration: none;" href="https://email.mg-d1.substack.com/c/eJxUkctuEzEYhZ9mvGvk60y88CJUHRUo0AoSSDYjX34nJp6LxnaiYdFnRykbuj5HR9-nY3WG4zgvys8Ad1eIduwBOcWkwWtbI1Ck4UzwmlKJoNchdkcYYNYZXKfzfynHBJ1U7Q0xTEhrnDRrx73TTNC6FkZ444lGQVFMBeaYUEoZlyu20tQKaEBwURMruV8ZeiVNLOeK4_5458gqFZOytueVHXsUUneDvbGoPBdAUZ1ynlLFNhVtK9pedEoa4FauaPv188v-tO2-Xd1yObQfv38o5otvyXNkbvp5eDjf13z9Z_t8v0h4Id3G7-zgPv3ST9Fsf_O0a_fGH9a7R-_hx2Oz2T88bUPabV5f0VRMZ8e-L0PISweDNhHcP6KpmBiszmEcuuAUlbLmtEGz0lGPJXid-1BxfLw5vDmlYtzY6zCo6bSkYFOyAQYLKL8_piSY3xZZQwUhGKOLon8DAAD__wBIlMw" target="_blank" style="text-decoration:none;">
 
  <table class="section header" cellpadding="" cellspacing="" align="center" bgcolor="#fff">
 
@@ -353,7 +353,7 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
     <p class="desc" style="-ms-text-justify:distribute;"><strong><span>D</span><span>e</span><span>a</span><span>r</span>,</strong><br>
 
-      Congratulations! You've been selected to get an <strong><span style="background-color: #F98500;font-weight:bold;">  Saving on Everyday Essentials!</span></p></strong></b>
+      Congratulations! You've been selected to get an <strong><span style="background-color: #F98500;font-weight:bold;"> Your AAA Emergency Kit</span></p></strong></b>
 
       Complete this short 30-second survey about your experiences with <strong>AARP</strong> and recieve your exclusive reward  for participating.
 
@@ -377,7 +377,7 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
  </td>
 
- <td width="250" valign="top" align="center" class="sticker" background="//cdn.aarp.net/content/dam/aarpe/en/home/membership/benefits/ways-to-use-your-member-card-immediately/_jcr_content/root/container_main/container_body_main/list_container_body2/container_body_cf/body_two_cf_listicle_four/cfimage.coreimg.50.932.jpeg/content/dam/aarp/benefits_discounts/mbch-mlp/maximize-your-aarp-membership/1140x655-man-woman-sitting-close-couch-tablet-aarp-membership-card-in-hand.jpg">
+ <td width="250" valign="top" align="center" class="sticker" background="//mobileimages.lowes.com/productimages/caea16c4-b0d9-446a-8e8c-9d7edf635b74/14125957.jpg">
 
 
 
@@ -415,7 +415,7 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
  <td align="center">
 
-    <a href="https://email.mg2.substack.com/c/eJxUkc-L3CAcxf-aeGswaowePHRLQ5ehs5RlKZ2LGP0mcSa_NmqG9DB_e0l7KHt-j8fnw7MmQjevu2pXgE93GOw8AnKKuUKUAoEqKkZZRSUXCEbjB93BBKuJ4LSJ_9OKVwL1iphW2Na0VSElGMspkdZRYUTBWwcYkFcEkxIzXGBSSMJzmhtiS6igZCUvrGRt3l3tdcHAM4bHjuQhNSEae8vtPCIf9EF6kKi4JkCD6mNcQkY_Z6TOSL2ZEAzAUc5IfT79-NW_6Ze727dL_fz6lJrv7Wl3X27l1pPLSWsRn9-KrWNJSD6cx0V7c3NPL-l17-x1ET-vw7fLWU9f37f3ktclrai9Px5oSY228zimycddw2SaAdw_oiU1g7cm-nnS3ikiJWekQqtqTfSjcbD9nvvVZAx3h8ZfrZAaN4_GT2rp9-BtCNbDZAHFj8ekAOsxSonkBFeYok2RPwEAAP__JxOWRw" class="cta">GET STARTED NOW!</a>
+    <a href="https://email.mg-d1.substack.com/c/eJxUkctuEzEYhZ9mvGvk60y88CJUHRUo0AoSSDYjX34nJp6LxnaiYdFnRykbuj5HR9-nY3WG4zgvys8Ad1eIduwBOcWkwWtbI1Ck4UzwmlKJoNchdkcYYNYZXKfzfynHBJ1U7Q0xTEhrnDRrx73TTNC6FkZ444lGQVFMBeaYUEoZlyu20tQKaEBwURMruV8ZeiVNLOeK4_5458gqFZOytueVHXsUUneDvbGoPBdAUZ1ynlLFNhVtK9pedEoa4FauaPv188v-tO2-Xd1yObQfv38o5otvyXNkbvp5eDjf13z9Z_t8v0h4Id3G7-zgPv3ST9Fsf_O0a_fGH9a7R-_hx2Oz2T88bUPabV5f0VRMZ8e-L0PISweDNhHcP6KpmBiszmEcuuAUlbLmtEGz0lGPJXid-1BxfLw5vDmlYtzY6zCo6bSkYFOyAQYLKL8_piSY3xZZQwUhGKOLon8DAAD__wBIlMw" class="cta">GET STARTED NOW!</a>
 
     
 
@@ -453,7 +453,7 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
     <td>
 
-        <p style="font-size: 14px; margin-bottom: 1px; " class="desc">Thank You,<br><span>Yo</span><span>u</span><span>r</span> AARP TEAM</p> 
+        <p style="font-size: 14px; margin-bottom: 1px; " class="desc">Thank You,<br><span>Yo</span><span>u</span><span>r</span> AAA TEAM</p> 
 
     </td>
 
