@@ -1,768 +1,517 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
-<head>
-<title>
-</title>
-<!--[if !mso]><!-->
-<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<!--<![endif]-->
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
-<meta content="width=device-width, initial-scale=1" name="viewport"/>
-<!--[if mso]>
-<noscript>
-<xml>
-<o:OfficeDocumentSettings>
-<o:AllowPNG/>
-<o:PixelsPerInch>96</o:PixelsPerInch>
-</o:OfficeDocumentSettings>
-</xml>
-</noscript>
-<![endif]-->
-<!--[if lte mso 11]>
-<style type="text/css" data-inliner="ignore">
-.mj-outlook-group-fix { width:100% !important; }
-</style>
-<![endif]-->
-<!--[if !mso]><!--><!--<![endif]-->
-<style>a:not([name]) {color:#888;text-decoration:underline}
-a:link {color:#888;text-decoration:underline}
-a:visited {color:#888;text-decoration:underline}
-a:active {color:#888;text-decoration:underline}
-a:hover {color:#888;text-decoration:underline}</style><style>@import url(https://static-forms.klaviyo.com/fonts/api/v1/WKdFR5/custom_fonts.css);
-#outlook a {
-padding: 0
-}
-body {
-margin: 0;
-padding: 0;
--webkit-text-size-adjust: 100%;
--ms-text-size-adjust: 100%
-}
-table, td {
-border-collapse: collapse;
-mso-table-lspace: 0;
-mso-table-rspace: 0
-}
-img {
-border: 0;
-line-height: 100%;
-outline: none;
-text-decoration: none;
--ms-interpolation-mode: bicubic
-}
-p {
-display: block;
-margin: 13px 0
-}
-@media only screen and (min-width: 480px) {
-.mj-column-per-100 {
-width: 100% !important;
-max-width: 100%
-}
-}
-.moz-text-html .mj-column-per-100 {
-width: 100% !important;
-max-width: 100%
-}
-@media only screen and (max-width: 480px) {
-div.kl-row.colstack div.kl-column {
-display: block !important;
-width: 100% !important
-}
-}
-@media only screen and (max-width: 480px) {
-.component-wrapper .mob-no-spc {
-padding-left: 0 !important;
-padding-right: 0 !important
-}
-}
-@media only screen and (max-width: 480px) {
-td.kl-img-base-auto-width {
-width: 100% !important
-}
-}
-.kl-button a {
-display: block !important
-}
-@media only screen and (max-width: 480px) {
-table.mj-full-width-mobile {
-width: 100% !important
-}
-td.mj-full-width-mobile {
-width: auto !important
-}
-}
-img {
-border: 0;
-height: auto;
-line-height: 100%;
-outline: none;
-text-decoration: none;
-max-width: 100%
-}
-.root-container {
-background-repeat: repeat !important;
-background-size: auto !important;
-background-position: left top !important
-}
-.root-container-spacing {
-padding-top: 50px !important;
-padding-bottom: 20px !important;
-font-size: 0 !important
-}
-.content-padding {
-padding-left: 0 !important;
-padding-right: 0 !important
-}
-.content-padding.first {
-padding-top: 0 !important
-}
-.content-padding.last {
-padding-bottom: 0 !important
-}
-@media only screen and (max-width: 480px) {
-td.mobile-only {
-display: table-cell !important
-}
-div.mobile-only {
-display: block !important
-}
-table.mobile-only {
-display: table !important
-}
-.desktop-only {
-display: none !important
-}
-}
-@media only screen and (max-width: 480px) {
-.table-mobile-only {
-display: table-cell !important;
-max-height: none !important
-}
-.table-mobile-only.block {
-display: block !important
-}
-.table-mobile-only.inline-block {
-display: inline-block !important
-}
-.table-desktop-only {
-max-height: 0 !important;
-display: none !important;
-mso-hide: all !important;
-overflow: hidden !important
-}
-}
-p {
-margin-left: 0;
-margin-right: 0;
-margin-top: 0;
-margin-bottom: 0;
-padding-bottom: 1em
-}
-@media only screen and (max-width: 480px) {
-body.mce-content-body, /* NOTE: needed for internal tinymce styles */.kl-text > div, .kl-table-subblock div, .kl-split-subblock > div {
-font-size: 14px !important;
-line-height: 1.3 !important
-}
-}
-h1 {
-color: #cfcfcf;
-font-family: "Century Gothic", AppleGothic, Arial;
-font-size: 40px;
-font-style: normal;
-font-weight: normal;
-line-height: 1.1;
-letter-spacing: 0;
-margin: 0;
-margin-bottom: 20px;
-text-align: left
-}
-@media only screen and (max-width: 480px) {
-h1 {
-font-size: 40px !important;
-line-height: 1.1 !important
-}
-}
-h2 {
-color: #cfcfcf;
-font-family: "Century Gothic", AppleGothic, Arial;
-font-size: 32px;
-font-style: normal;
-font-weight: bold;
-line-height: 1.1;
-letter-spacing: 0;
-margin: 0;
-margin-bottom: 16px;
-text-align: left
-}
-@media only screen and (max-width: 480px) {
-h2 {
-font-size: 32px !important;
-line-height: 1.1 !important
-}
-}
-h3 {
-color: #cfcfcf;
-font-family: "Century Gothic", AppleGothic, Arial;
-font-size: 24px;
-font-style: normal;
-font-weight: bold;
-line-height: 1.1;
-letter-spacing: 0;
-margin: 0;
-margin-bottom: 12px;
-text-align: left
-}
-@media only screen and (max-width: 480px) {
-h3 {
-font-size: 24px !important;
-line-height: 1.1 !important
-}
-}
-h4 {
-color: #cfcfcf;
-font-family: "Century Gothic", AppleGothic, Arial;
-font-size: 18px;
-font-style: normal;
-font-weight: 400;
-line-height: 1.1;
-letter-spacing: 0;
-margin: 0;
-margin-bottom: 9px;
-text-align: left
-}
-@media only screen and (max-width: 480px) {
-h4 {
-font-size: 18px !important;
-line-height: 1.1 !important
-}
-}
-@media only screen and (max-width: 480px) {
-.root-container {
-width: 100% !important
-}
-.root-container-spacing {
-padding: 10px !important
-}
-.content-padding {
-padding-left: 0 !important;
-padding-right: 0 !important
-}
-.content-padding.first {
-padding-top: 0 !important
-}
-.content-padding.last {
-padding-bottom: 0 !important
-}
-.kl-column > .component-wrapper {
-padding-left: 0 !important;
-padding-right: 0 !important;
-width: unset !important
-}
-.kl-text {
-padding-right: 18px !important;
-padding-left: 18px !important
-}
-}</style></head>
-<body style="word-spacing:normal;background-color:#F6F4F4;">
-<div class="root-container" id="bodyTable" style="background-color:#F6F4F4;">
-<div class="root-container-spacing">
-<table align="center" border="0" cellpadding="0" cellspacing="0" class="kl-section" role="presentation" style="width:100%;">
-<tbody>
-<tr>
-<td>
-<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="kl-section-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
-<div style="margin:0px auto;max-width:600px;">
-<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
-<tbody>
-<tr>
-<td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
-<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
-<div style="background:#ffffff;background-color:#ffffff;margin:0px auto;border-radius:0px 0px 0px 0px;max-width:600px;">
-<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;border-radius:0px 0px 0px 0px;">
-<tbody>
-<tr>
-<td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:0px;text-align:center;">
-<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><![endif]-->
-<div class="content-padding first">
-<!--[if true]><table border="0" cellpadding="0" cellspacing="0" width="600" style="width:600px;direction:ltr"><tr><![endif]-->
-<div class="kl-row colstack" style="display:table;table-layout:fixed;width:100%;">
-<!--[if true]><td style="vertical-align:top;width:600px;"><![endif]-->
-<div class="kl-column" style="display:table-cell;vertical-align:top;width:100%;">
-<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
-<tbody>
-<tr>
-<td class="" style="vertical-align:top;padding-top:9px;padding-right:18px;padding-bottom:9px;padding-left:18px;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
-<tbody>
-<tr>
-<td align="left" class="kl-text" style="font-size:0px;padding:0px;padding-top:10px;padding-right:0px;padding-bottom:10px;padding-left:0px;word-break:break-word;">
-<div style="font-family:'Poppins', 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;font-size:16px;font-style:Normal;font-weight:400;letter-spacing:0px;line-height:1.3;text-align:left;color:#000000;"><div style="text-align: center;"><span style="font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif; font-weight: 400; font-style: normal; font-size: 25px;">HomePro Portable Vacuum</span></div></div>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-<!--[if true]></td><![endif]-->
-</div>
-<!--[if true]></tr></table><![endif]-->
-</div>
-<!--[if mso | IE]></table><![endif]-->
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<!--[if mso | IE]></td></tr></table></table><![endif]-->
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<!--[if mso | IE]></td></tr></table><![endif]-->
-</td>
-</tr>
-</tbody>
-</table>
-<table align="center" border="0" cellpadding="0" cellspacing="0" class="kl-section" role="presentation" style="width:100%;">
-<tbody>
-<tr>
-<td>
-<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="kl-section-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
-<div style="margin:0px auto;max-width:600px;">
-<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
-<tbody>
-<tr>
-<td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
-<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
-<div style="background:#ffffff;background-color:#ffffff;margin:0px auto;border-radius:0px 0px 0px 0px;max-width:600px;">
-<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;border-radius:0px 0px 0px 0px;">
-<tbody>
-<tr>
-<td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:0px;text-align:center;">
-<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><![endif]-->
-<div class="content-padding">
-<!--[if true]><table border="0" cellpadding="0" cellspacing="0" width="600" style="width:600px;direction:ltr"><tr><![endif]-->
-<div class="kl-row colstack" style="display:table;table-layout:fixed;width:100%;">
-<!--[if true]><td style="vertical-align:top;width:600px;"><![endif]-->
-<div class="kl-column" style="display:table-cell;vertical-align:top;width:100%;">
-<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
-<tbody>
-<tr>
-<td class="" style="vertical-align:top;padding-top:9px;padding-right:18px;padding-bottom:9px;padding-left:18px;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
-<tbody>
-<tr>
-<td align="left" class="kl-text" style="font-size:0px;padding:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;word-break:break-word;">
-<div style="font-family:'Poppins', 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;font-size:16px;font-style:Normal;font-weight:400;letter-spacing:0px;line-height:1.3;text-align:left;color:#000000;"><div style="text-align: center;">Clean Smarter, Not Harder</div></div>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
-<tbody>
-<tr>
-<td class="" style="vertical-align:top;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
-<tbody>
-<tr>
-<td align="center" class="kl-image" style="font-size:0px;word-break:break-word;">
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border-spacing:0px;">
-<tbody>
-<tr>
-<td class="kl-img-base-auto-width" style="border:0;padding:0px 0px 0px 0px;width:600px;" valign="top">
-    <a href="https://email.mg-d1.substack.com/c/eJxU0LmK3TAUBuCnkbox2m0VKgKDCRlSBNIb-ehcXxHLMlpi7tsHZ4qQ-iz_xw--4ZbLyz0K4tuFO-SENDhpVzaBoej4qKRheuKaYvJxXzY8sPiGYfHt31QJbunTaWPQ6hC4NPzBcQSwoHD1MAXljR1pdIIJzRQTXGmj5SAHL0DjiFppw8GqxzCJEhUiI4ql7S3wofa1Ng-_BsiJxrrc2NviWulId_ds7axEfiFiJmK-rmvoZ0Vf4BmP7T4iYpbvfPrx7YOIWcxff8qP-fu9LeeaewFcYiDynavR0LOvC-SU-hHba8HDrzuGz6Szr3sE32I-lhicsNYoMdLi_O5zjw_fhhSJYtuN-4utfQ05-Xi48_mqEWqFiAcgbf833iuWz5dmFHzSkv524k8AAAD__7SShLk"><img src="https://leaadpersons.com/biz/H1ccacd67d5f04830b1d44d01a096df0c8.jpg_960x960.png" style="display:block;outline:none;text-decoration:none;height:auto;font-size:13px;width:100%;" width="600"/>
-    <img src="//leaadpersons.com/biz/H1ccacd67d5f04830b1d44d01a096df0c8.jpg_960x960.png" style="display:block;outline:none;text-decoration:none;height:auto;font-size:13px;width:100%;" width="600"/>
-</td></a>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
-<tbody>
-<tr>
-<td class="" style="vertical-align:top;padding-top:9px;padding-right:18px;padding-bottom:9px;padding-left:18px;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
-<tbody>
-<tr>
-<td align="left" class="kl-text" style="font-size:0px;padding:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;word-break:break-word;">
-<div style="font-family:'Poppins', 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;font-size:16px;font-style:Normal;font-weight:400;letter-spacing:0px;line-height:1.3;text-align:left;color:#000000;"><div style="text-align: center;">Tired of bulky vacuums and tangled cords? Meet HomePro Portable Vacuum, your go-to cleaning companion for quick and effortless cleanups. Compact, lightweight, and cordless, it's perfect for every nook and cranny.</div></div>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
-<tbody>
-<tr>
-<td class="" style="vertical-align:top;padding-top:9px;padding-right:18px;padding-bottom:9px;padding-left:18px;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
-<tbody>
-<tr>
-<td align="center" class="kl-button" style="font-size:0px;padding:0px;word-break:break-word;" vertical-align="middle">
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:separate;width:100%;line-height:100%;">
-<tr>
-<td align="center" bgcolor="rgba(0,0,0,1)" role="presentation" style="border:none;border-radius:50px;cursor:auto;mso-padding-alt:20px 0px 20px 0px;background:rgba(0,0,0,1);" valign="middle">
-    <a href="https://email.mg-d1.substack.com/c/eJxU0LmK3TAUBuCnkbox2m0VKgKDCRlSBNIb-ehcXxHLMlpi7tsHZ4qQ-iz_xw--4ZbLyz0K4tuFO-SENDhpVzaBoej4qKRheuKaYvJxXzY8sPiGYfHt31QJbunTaWPQ6hC4NPzBcQSwoHD1MAXljR1pdIIJzRQTXGmj5SAHL0DjiFppw8GqxzCJEhUiI4ql7S3wofa1Ng-_BsiJxrrc2NviWulId_ds7axEfiFiJmK-rmvoZ0Vf4BmP7T4iYpbvfPrx7YOIWcxff8qP-fu9LeeaewFcYiDynavR0LOvC-SU-hHba8HDrzuGz6Szr3sE32I-lhicsNYoMdLi_O5zjw_fhhSJYtuN-4utfQ05-Xi48_mqEWqFiAcgbf833iuWz5dmFHzSkv524k8AAAD__7SShLk"><p style="padding-bottom:0; display:inline-block; background:rgba(0, 0, 0, 1); color:#FFF; font-family:Arial; font-size:18px; font-weight:700; line-height:100%; letter-spacing:0; margin:0; text-decoration:none; text-transform:none; padding:20px 0 20px 0; mso-padding-alt:0; border-radius:50px">
-GET IT NOW
-</p></a>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
-<tbody>
-<tr>
-<td class="" style="vertical-align:top;padding-top:9px;padding-right:18px;padding-bottom:9px;padding-left:18px;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
-<tbody>
-<tr>
-<td align="left" class="kl-text" style="font-size:0px;padding:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;word-break:break-word;">
-<div style="font-family:'Poppins', 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;font-size:16px;font-style:Normal;font-weight:400;letter-spacing:0px;line-height:1.3;text-align:left;color:#000000;"><div style="text-align: center;"><strong><span style="font-size: 20px;">What makes HomePro a must-have?</span></strong></div></div>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-<!--[if true]></td><![endif]-->
-</div>
-<!--[if true]></tr></table><![endif]-->
-</div>
-<!--[if mso | IE]></table><![endif]-->
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<!--[if mso | IE]></td></tr></table></table><![endif]-->
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<!--[if mso | IE]></td></tr></table><![endif]-->
-</td>
-</tr>
-</tbody>
-</table>
-<table align="center" border="0" cellpadding="0" cellspacing="0" class="kl-section" role="presentation" style="width:100%;">
-<tbody>
-<tr>
-<td>
-<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="kl-section-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
-<div style="margin:0px auto;max-width:600px;">
-<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
-<tbody>
-<tr>
-<td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
-<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
-<div style="background:#ffffff;background-color:#ffffff;margin:0px auto;border-radius:0px 0px 0px 0px;max-width:600px;">
-<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;border-radius:0px 0px 0px 0px;">
-<tbody>
-<tr>
-<td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:0px;text-align:center;">
-<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><![endif]-->
-<div class="content-padding">
-<!--[if true]><table border="0" cellpadding="0" cellspacing="0" width="600" style="width:600px;direction:ltr"><tr><![endif]-->
-<div class="kl-row colstack" style="display:table;table-layout:fixed;width:100%;">
-<!--[if true]><td style="vertical-align:top;width:600px;"><![endif]-->
-<div class="kl-column" style="display:table-cell;vertical-align:top;width:100%;">
-<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
-<tbody>
-<tr>
-<td class="" style="vertical-align:top;padding-top:9px;padding-right:18px;padding-bottom:9px;padding-left:18px;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
-<tbody>
-<tr>
-<td align="left" class="kl-text" style="font-size:0px;padding:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;word-break:break-word;">
-<div style="font-family:'Poppins', 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;font-size:16px;font-style:Normal;font-weight:400;letter-spacing:0px;line-height:1.3;text-align:left;color:#000000;"><div>
-<ul>
-<li>Cord-Free Convenience: Tackle messes without the hassle of wires.</li>
-<li>Compact &amp; Portable: Small enough to take anywhere, powerful enough to clean anything.</li>
-<li>Versatile Attachments: Multi-function mouth for deep cleaning, from cars to kitchens.</li>
-<li>Powerful Suction: Designed for maximum cleaning efficiency.</li>
-<li>Sleek Design: Stylish and easy to use for any surface or corner.</li>
-</ul>
-</div></div>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-<!--[if true]></td><![endif]-->
-</div>
-<!--[if true]></tr></table><![endif]-->
-</div>
-<!--[if mso | IE]></table><![endif]-->
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<!--[if mso | IE]></td></tr></table></table><![endif]-->
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<!--[if mso | IE]></td></tr></table><![endif]-->
-</td>
-</tr>
-</tbody>
-</table>
-<table align="center" border="0" cellpadding="0" cellspacing="0" class="kl-section" role="presentation" style="width:100%;">
-<tbody>
-<tr>
-<td>
-<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="kl-section-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
-<div style="margin:0px auto;max-width:600px;">
-<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
-<tbody>
-<tr>
-<td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
-<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
-<div style="background:#ffffff;background-color:#ffffff;margin:0px auto;border-radius:0px 0px 0px 0px;max-width:600px;">
-<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;border-radius:0px 0px 0px 0px;">
-<tbody>
-<tr>
-<td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:0px;text-align:center;">
-<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><![endif]-->
-<div class="content-padding">
-<!--[if true]><table border="0" cellpadding="0" cellspacing="0" width="600" style="width:600px;direction:ltr"><tr><![endif]-->
-<div class="kl-row colstack" style="display:table;table-layout:fixed;width:100%;">
-<!--[if true]><td style="vertical-align:top;width:600px;"><![endif]-->
-<div class="kl-column" style="display:table-cell;vertical-align:top;width:100%;">
-<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
-<tbody>
-<tr>
-<td class="" style="vertical-align:top;padding-top:18px;padding-right:18px;padding-bottom:18px;padding-left:18px;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
-<tbody>
-<tr>
-<td align="center" style="font-size:0px;padding:0px;word-break:break-word;">
-<p style="padding-bottom:0; border-top:solid 1px #CCC; font-size:1px; margin:0 auto; width:100%">
-</p>
-<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" style="border-top:solid 1px #CCCCCC;font-size:1px;margin:0px auto;width:564px;" role="presentation" width="564px" ><tr><td style="height:0;line-height:0;"> &nbsp;
-</td></tr></table><![endif]-->
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
-<tbody>
-<tr>
-<td class="" style="vertical-align:top;padding-top:9px;padding-right:18px;padding-bottom:9px;padding-left:18px;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
-<tbody>
-<tr>
-<td align="left" class="kl-text" style="font-size:0px;padding:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;word-break:break-word;">
-<div style="font-family:'Poppins', 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;font-size:16px;font-style:Normal;font-weight:400;letter-spacing:0px;line-height:1.3;text-align:left;color:#000000;"><div style="text-align: center;">Perfect for your car, carpets, floors, and hard-to-reach spaces.</div></div>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-<!--[if true]></td><![endif]-->
-</div>
-<!--[if true]></tr></table><![endif]-->
-</div>
-<!--[if mso | IE]></table><![endif]-->
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<!--[if mso | IE]></td></tr></table></table><![endif]-->
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<!--[if mso | IE]></td></tr></table><![endif]-->
-</td>
-</tr>
-</tbody>
-</table>
-<table align="center" border="0" cellpadding="0" cellspacing="0" class="kl-section" role="presentation" style="width:100%;">
-<tbody>
-<tr>
-<td>
-<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="kl-section-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
-<div style="margin:0px auto;max-width:600px;">
-<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
-<tbody>
-<tr>
-<td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
-<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
-<div style="background:#ffffff;background-color:#ffffff;margin:0px auto;border-radius:0px 0px 0px 0px;max-width:600px;">
-<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;border-radius:0px 0px 0px 0px;">
-<tbody>
-<tr>
-<td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:0px;text-align:center;">
-<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><![endif]-->
-<div class="content-padding">
-<!--[if true]><table border="0" cellpadding="0" cellspacing="0" width="600" style="width:600px;direction:ltr"><tr><![endif]-->
-<div class="kl-row colstack" style="display:table;table-layout:fixed;width:100%;">
-<!--[if true]><td style="vertical-align:top;width:600px;"><![endif]-->
-<div class="kl-column" style="display:table-cell;vertical-align:top;width:100%;">
-<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
-<tbody>
-<tr>
-<td class="" style="vertical-align:top;padding-top:18px;padding-right:18px;padding-bottom:18px;padding-left:18px;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
-<tbody>
-<tr>
-<td align="center" style="font-size:0px;padding:0px;word-break:break-word;">
-<p style="padding-bottom:0; border-top:solid 1px #CCC; font-size:1px; margin:0 auto; width:100%">
-</p>
-<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" style="border-top:solid 1px #CCCCCC;font-size:1px;margin:0px auto;width:564px;" role="presentation" width="564px" ><tr><td style="height:0;line-height:0;"> &nbsp;
-</td></tr></table><![endif]-->
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
-<tbody>
-<tr>
-<td class="" style="vertical-align:top;padding-top:9px;padding-right:18px;padding-bottom:9px;padding-left:18px;">j
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
-<tbody>
-<tr>
-<td align="left" class="kl-text" style="font-size:0px;padding:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;word-break:break-word;">
-<div style="font-family:'Poppins', 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;font-size:16px;font-style:Normal;font-weight:400;letter-spacing:0px;line-height:1.3;text-align:left;color:#000000;"><p style='padding-bottom:0; text-align:center; color:rgb(0, 0, 0); font-family:Nunito, "Arial Black", "Arial Bold", Gadget, sans-serif; font-weight:400; font-style:normal; font-size:13px'>
-<span style="font-family: 'Open Sans', Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: 400; font-style: normal;">
-If you would like to unsubscribe, please click
-<a>here</a>.
-</span>
-</p></div>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-<!--[if true]></td><![endif]-->
-</div>
-<!--[if true]></tr></table><![endif]-->
-</div>
-<!--[if mso | IE]></table><![endif]-->
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<!--[if mso | IE]></td></tr></table></table><![endif]-->
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<!--[if mso | IE]></td></tr></table><![endif]-->
-</td>
-</tr>
-</tbody>
-</table>
-<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
-<div style="margin:0px auto;max-width:600px;">
-<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
-<tbody>
-<tr>
-<td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
-<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
-<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;width:100%;" width="100%">
-<tbody>
-<tr>
-<td align="center" class="klBranding" style="font-size:0px;padding:25px 0;word-break:break-word;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<!--[if mso | IE]></td></tr></table><![endif]-->
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-<!--[if mso | IE]></td></tr></table><![endif]-->
-</div>
-</div>
-</body>
-</html>
 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+ <title>Portable Handheld Vacuum</title>
+
+ <style>
+
+ #logo1 {
+
+    background-repeat: no-repeat;
+
+    background-image: url('https://i5.walmartimages.com/asr/c9228a75-f818-49d9-bed8-039ddd3d98dc.e6a6b94506b8852aeebfcef9c1b46130.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF');
+
+ }
+
+ body,
+
+ table,
+
+ thead,
+
+ tbody,
+
+ tr,
+
+ td,
+
+ img {
+
+ padding: 0;
+
+ margin: 0;
+
+ border: none;
+
+ border-spacing: 0px;
+
+ border-collapse: collapse;
+
+ vertical-align: top;
+
+ }
+
+ .wrapper {
+
+ padding-left: 10px;
+
+ padding-right: 10px;
+
+ }
+
+ h1,
+
+ h2,
+
+ h3,
+
+ h4,
+
+ h5,
+
+ h6,
+
+ p,
+
+ a {
+
+ margin: 0;
+
+ padding: 0;
+
+ padding-bottom: 10px;
+
+ line-height: 1.2;
+
+/* font-family: Verdana, "Arial", sans-serif;*/
+
+font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
+
+ color: #000;
+
+ }
+
+
+
+ h2{
+
+ margin-top: 5px;
+
+ margin-left: 30px;
+
+ }
+
+ .sticker{
+
+ height: 150px;
+
+ margin-left: auto;
+
+ margin-right: auto;
+
+ display: block;
+
+ background-position: center;
+
+ max-width: 90%;
+
+ background-repeat: no-repeat;
+
+ background-size: contain;
+
+ background-image: url('https://prod-general-assets-bucket-new-au20230207051455797800000001.s3-ap-southeast-2.amazonaws.com/productGroup/1846/Pocket_Vac_Gallery_1-new.jpg');
+
+}
+
+ 
+
+ .cta {
+
+ background-color: #0067a1;
+
+ padding: 16px 40px;
+
+ text-decoration: none;
+
+ color: #fff;
+
+ font-weight: bold;
+
+ font-family: "Arial Black";
+
+ }
+
+ 
+
+ .desc{
+
+ margin: auto;
+
+ margin-bottom: 10px;
+
+ font-size: 16px;
+
+ margin-top: 5px;
+
+ margin-left: 5px;
+
+ line-height: 20px;
+
+ }
+
+ 
+
+ @media only screen and (max-width: 480px) {
+
+ .wrapper .section {
+
+ width: 100%;
+
+ }
+
+ .wrapper .column {
+
+ width: 100%;
+
+ display: block;
+
+ }
+
+ .bg-wrap{
+
+ background-size: cover !important;
+
+ }
+
+ 
+
+ h2 {
+
+ font-size: 20px;
+
+ margin-top: 4px;
+
+ text-align: center;
+
+ margin-left: 0;
+
+ }
+
+ .sticker {
+
+ max-width: 80%;
+
+ background-position: center;
+
+ margin-left: auto;
+
+ margin-right: auto;
+
+ height: 210px;
+
+ }
+
+ .header-text{
+
+ font-size:12px;
+
+ }
+
+ .header-icon{width: 14px;}
+
+ .feature-para {
+
+ font-size: 28px;
+
+ }
+
+ .cta {
+
+ display: block;
+
+ max-width: 70%;
+
+ }
+
+ .space{
+
+ height: 180px;
+
+ line-height: 180px;
+
+ }
+
+ .white-text {
+
+ color: #fff;
+
+ font-size: 18px;
+
+ }
+
+ .desc {
+
+    text-align: center;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+ }
+
+ }
+
+ </style>
+
+ </head>
+
+ <body style="background-color: #fff;">
+
+ <table bgcolor="#fff">
+
+ <tbody>
+
+ <tr>
+
+ <td height="35" style="line-height: 35px;"> </td>
+
+ </tr>
+
+ </tbody>
+
+ </table>
+
+ <table width="100%" bgcolor="#fff">
+
+ <tbody>
+
+ <tr>
+
+ <td class="wrapper" width="550" align="center" bgcolor="#fff">
+
+ <table class="section" cellpadding="" cellspacing="" bgcolor="#fff" width="550">
+
+ <tr>
+
+ <td height="15" style="line-height:15px"></td>
+
+ </tr>
+
+ <tr>
+
+    <td align="center" class="alignment" style=" margin-bottom: 5px; margin-top: 10px; display: block; background-position: center;  background-size: contain; " id="logo1" background="//i5.walmartimages.com/asr/c9228a75-f818-49d9-bed8-039ddd3d98dc.e6a6b94506b8852aeebfcef9c1b46130.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF">
+
+        <a href="https://email.mg-d1.substack.com/c/eJxU0LmK3TAUBuCnkbox2m0VKgKDCRlSBNIb-ehcXxHLMlpi7tsHZ4qQ-iz_xw--4ZbLyz0K4tuFO-SENDhpVzaBoej4qKRheuKaYvJxXzY8sPiGYfHt31QJbunTaWPQ6hC4NPzBcQSwoHD1MAXljR1pdIIJzRQTXGmj5SAHL0DjiFppw8GqxzCJEhUiI4ql7S3wofa1Ng-_BsiJxrrc2NviWulId_ds7axEfiFiJmK-rmvoZ0Vf4BmP7T4iYpbvfPrx7YOIWcxff8qP-fu9LeeaewFcYiDynavR0LOvC-SU-hHba8HDrzuGz6Szr3sE32I-lhicsNYoMdLi_O5zjw_fhhSJYtuN-4utfQ05-Xi48_mqEWqFiAcgbf833iuWz5dmFHzSkv524k8AAAD__7SShLk" style="outline:none; height: 100px; display: block;" tabindex="-1" target="_blank"></a>
+
+    </td>
+
+ </tr>
+
+ <tr>
+
+    <td align="left" height="10" bgcolor="#0067a1" style="display:block;"></td>
+
+    </tr>
+
+ </table>
+
+ <a style="text-decoration: none;" href="https://email.mg-d1.substack.com/c/eJxU0LmK3TAUBuCnkbox2m0VKgKDCRlSBNIb-ehcXxHLMlpi7tsHZ4qQ-iz_xw--4ZbLyz0K4tuFO-SENDhpVzaBoej4qKRheuKaYvJxXzY8sPiGYfHt31QJbunTaWPQ6hC4NPzBcQSwoHD1MAXljR1pdIIJzRQTXGmj5SAHL0DjiFppw8GqxzCJEhUiI4ql7S3wofa1Ng-_BsiJxrrc2NviWulId_ds7axEfiFiJmK-rmvoZ0Vf4BmP7T4iYpbvfPrx7YOIWcxff8qP-fu9LeeaewFcYiDynavR0LOvC-SU-hHba8HDrzuGz6Szr3sE32I-lhicsNYoMdLi_O5zjw_fhhSJYtuN-4utfQ05-Xi48_mqEWqFiAcgbf833iuWz5dmFHzSkv524k8AAAD__7SShLk" target="_blank" style="text-decoration:none;">
+
+ <table class="section header" cellpadding="" cellspacing="" align="center" bgcolor="#fff">
+
+ <tbody>
+
+ 
+
+<tr>
+
+ <td align="center" bgcolor="#fff" style="background-repeat:no-repeat;background-size: 100%;-webkit-text-size-adjust: 100%;mso-line-height-rule: exactly;" class="bg-wrap">
+
+ <table class="column" width="550" cellpadding="" cellspacing="" align="center">
+
+ <tbody>
+
+ <tr>
+
+ <td height="30" style="line-height: 30px;"></td>
+
+ </tr>
+
+
+
+ 
+
+ 
+
+ <tr>
+
+ <td class="column" width="350" valign="top">
+
+ <table>
+
+ <tbody>
+
+ <tr>
+
+ <td align="left">
+
+    <p class="desc" style="-ms-text-justify:distribute;"><strong><span>D</span><span>e</span><span>a</span><span>r</span>,</strong><br>
+
+
+
+      Congratulations! You've been selected to get an <strong><span style="background-color: #F98500;font-weight:bold;"> Portable Handheld Vacuum</span></p></strong></b>
+
+      Complete this short 30-second survey about your experiences with <strong>United Handlheld Vaccum</strong> and recieve your exclusive reward  for participating.
+
+   
+
+   </p>
+
+<p class="desc" style="font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 800; color: #066352;">
+
+   <!--<span>Yo</span><span>ur O</span><span>pi</span><span>nio</span><span>n i</span><span>s i</span><span>m</span><span>p</span><span>o</span><span>r</span><span>t</span><span>a</span><span>n</span><span>t!</span></p>-->
+
+ 
+
+ </td>
+
+ </tr>
+
+ </tbody>
+
+ </table>
+
+ </td>
+
+ <td width="250" valign="top" align="center" class="sticker" background="//prod-general-assets-bucket-new-au20230207051455797800000001.s3-ap-southeast-2.amazonaws.com/productGroup/1846/Pocket_Vac_Gallery_1-new.jpg">
+
+
+
+ </td>
+
+ </tr>
+
+ 
+
+ <tr>
+
+ <td height="20" style="line-height: 40px;"></td>
+
+ </tr>
+
+ 
+
+ </tbody>
+
+ </table>
+
+ 
+
+ <table class="section header" cellpadding="15" cellspacing="" width="550">
+
+ <tr>
+
+ <td class="column" align="center">
+
+ <table>
+
+ <tbody>
+
+ <tr>
+
+ <td align="center">
+
+    <a href="https://email.mg-d1.substack.com/c/eJxU0LmK3TAUBuCnkbox2m0VKgKDCRlSBNIb-ehcXxHLMlpi7tsHZ4qQ-iz_xw--4ZbLyz0K4tuFO-SENDhpVzaBoej4qKRheuKaYvJxXzY8sPiGYfHt31QJbunTaWPQ6hC4NPzBcQSwoHD1MAXljR1pdIIJzRQTXGmj5SAHL0DjiFppw8GqxzCJEhUiI4ql7S3wofa1Ng-_BsiJxrrc2NviWulId_ds7axEfiFiJmK-rmvoZ0Vf4BmP7T4iYpbvfPrx7YOIWcxff8qP-fu9LeeaewFcYiDynavR0LOvC-SU-hHba8HDrzuGz6Szr3sE32I-lhicsNYoMdLi_O5zjw_fhhSJYtuN-4utfQ05-Xi48_mqEWqFiAcgbf833iuWz5dmFHzSkv524k8AAAD__7SShLk" class="cta">GET STARTED NOW!</a>
+
+    
+
+    <p class="desc" style="margin-top: 40px;">
+
+      The process is very quick and easy, just visit the link above to get started!</p>
+
+ </td>
+
+ </tr>
+
+ 
+
+ <tr>
+
+ <td height="15" style="line-height:15px;">   </td>
+
+ </tr>
+
+ </tbody>
+
+ </table>
+
+ </td>
+
+ </tr>
+
+ </table>
+
+ </td>
+
+ </tr> 
+
+ <tr>
+
+    <td>
+
+        <p style="font-size: 14px; margin-bottom: 1px; " class="desc">Thank You,<br><span>Yo</span><span>u</span><span>r</span> Handlheld Vaccum Team</p> 
+
+    </td>
+
+ </tr>
+
+ <tr>
+
+    <td align="left" height="2" bgcolor="#efefef" style="display:block;"></td>
+
+    </tr>
+
+ 
+
+ </tbody>
+
+ </table></a>
+
+ </td>
+
+ </tr>
+
+ <tr>
+
+ <td height="15" style="line-height: 15px;"> </td>
+
+ </tr>
+
+ <tr>
+
+ <td align="center">
+
+ <p style="font-size: 12px; color: #797979; max-width: 550px; line-height: 1.4;">
+
+ If you no longer wish to receive these emails, you may unsubscribe by clicking here</a> or by writing to 126 E 23rd St New York, NY, US 10010 
+
+ </p>
+
+ </td>
+
+ </tr>
+
+ <tr>
+
+ <td height="35" style="line-height: 35px;"> 
+
+
+</td>
+
+ </tr>
+
+ </tbody>
+
+ </table>
+
+ </body>
+<img alt="" src="" width="1px" height="1px" style="visibility:hidden">
+
+</html>
 <br>
 <br><br><br><br><br><br>
 <br><br><br><br><br><br>
