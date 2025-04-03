@@ -16,7 +16,7 @@ WAIT_BETWEEN_BATCHES = 3
 FIXED_DOMAIN = 'kinderroller.org'  # Set the fixed domain for return path
 FROM_NAME = "AARP Services"
 FROM_EMAIL = "service@[customerservicehealth.com]"
-SUBJECT = "Confirms - Your April AARP Membership: The Smart Choice for 50+"
+SUBJECT = "Final Notice! - Your April AARP Membership: The Smart Choice for 50+"
 TO_ADDR = ''  # Add a valid recipient email address
 
 # Semaphore for controlling concurrent threads
