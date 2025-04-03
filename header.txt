@@ -1,11 +1,9 @@
-
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
- <title>Portable Handheld Vacuum</title>
+ <title>Aarpt  Exclusive</title>
 
  <style>
 
@@ -13,7 +11,9 @@
 
     background-repeat: no-repeat;
 
-    background-image: url('https://i5.walmartimages.com/asr/c9228a75-f818-49d9-bed8-039ddd3d98dc.e6a6b94506b8852aeebfcef9c1b46130.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF');
+    background-image: url('https://aarp-states.brightspotcdn.com/f2/7a/77f7dbe54a67bb20cfbc5647d6c7/aarp-in-4c.png');
+        background-image: url('//aarp-states.brightspotcdn.com/f2/7a/77f7dbe54a67bb20cfbc5647d6c7/aarp-in-4c.png');
+
 
  }
 
@@ -113,7 +113,9 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
  background-size: contain;
 
- background-image: url('https://prod-general-assets-bucket-new-au20230207051455797800000001.s3-ap-southeast-2.amazonaws.com/productGroup/1846/Pocket_Vac_Gallery_1-new.jpg');
+ background-image: url('https://cdn.aarp.net/content/dam/aarpe/en/home/membership/benefits/ways-to-use-your-member-card-immediately/_jcr_content/root/container_main/container_body_main/list_container_body2/container_body_cf/body_two_cf_listicle_four/cfimage.coreimg.50.932.jpeg/content/dam/aarp/benefits_discounts/mbch-mlp/maximize-your-aarp-membership/1140x655-man-woman-sitting-close-couch-tablet-aarp-membership-card-in-hand.jpg');
+
+ background-image: url('//cdn.aarp.net/content/dam/aarpe/en/home/membership/benefits/ways-to-use-your-member-card-immediately/_jcr_content/root/container_main/container_body_main/list_container_body2/container_body_cf/body_two_cf_listicle_four/cfimage.coreimg.50.932.jpeg/content/dam/aarp/benefits_discounts/mbch-mlp/maximize-your-aarp-membership/1140x655-man-woman-sitting-close-couch-tablet-aarp-membership-card-in-hand.jpg');
 
 }
 
@@ -293,9 +295,9 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
  <tr>
 
-    <td align="center" class="alignment" style=" margin-bottom: 5px; margin-top: 10px; display: block; background-position: center;  background-size: contain; " id="logo1" background="//i5.walmartimages.com/asr/c9228a75-f818-49d9-bed8-039ddd3d98dc.e6a6b94506b8852aeebfcef9c1b46130.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF">
+    <td align="center" class="alignment" style=" margin-bottom: 5px; margin-top: 10px; display: block; background-position: center;  background-size: contain; " id="logo1" background="//aarp-states.brightspotcdn.com/f2/7a/77f7dbe54a67bb20cfbc5647d6c7/aarp-in-4c.png">
 
-        <a href="https://email.mg-d1.substack.com/c/eJxU0LmK3TAUBuCnkbox2m0VKgKDCRlSBNIb-ehcXxHLMlpi7tsHZ4qQ-iz_xw--4ZbLyz0K4tuFO-SENDhpVzaBoej4qKRheuKaYvJxXzY8sPiGYfHt31QJbunTaWPQ6hC4NPzBcQSwoHD1MAXljR1pdIIJzRQTXGmj5SAHL0DjiFppw8GqxzCJEhUiI4ql7S3wofa1Ng-_BsiJxrrc2NviWulId_ds7axEfiFiJmK-rmvoZ0Vf4BmP7T4iYpbvfPrx7YOIWcxff8qP-fu9LeeaewFcYiDynavR0LOvC-SU-hHba8HDrzuGz6Szr3sE32I-lhicsNYoMdLi_O5zjw_fhhSJYtuN-4utfQ05-Xi48_mqEWqFiAcgbf833iuWz5dmFHzSkv524k8AAAD__7SShLk" style="outline:none; height: 100px; display: block;" tabindex="-1" target="_blank"></a>
+        <a href="https://email.mg2.substack.com/c/eJxUkc-L3CAcxf-aeGswaowePHRLQ5ehs5RlKZ2LGP0mcSa_NmqG9DB_e0l7KHt-j8fnw7MmQjevu2pXgE93GOw8AnKKuUKUAoEqKkZZRSUXCEbjB93BBKuJ4LSJ_9OKVwL1iphW2Na0VSElGMspkdZRYUTBWwcYkFcEkxIzXGBSSMJzmhtiS6igZCUvrGRt3l3tdcHAM4bHjuQhNSEae8vtPCIf9EF6kKi4JkCD6mNcQkY_Z6TOSL2ZEAzAUc5IfT79-NW_6Ze727dL_fz6lJrv7Wl3X27l1pPLSWsRn9-KrWNJSD6cx0V7c3NPL-l17-x1ET-vw7fLWU9f37f3ktclrai9Px5oSY228zimycddw2SaAdw_oiU1g7cm-nnS3ikiJWekQqtqTfSjcbD9nvvVZAx3h8ZfrZAaN4_GT2rp9-BtCNbDZAHFj8ekAOsxSonkBFeYok2RPwEAAP__JxOWRw" style="outline:none; height: 100px; display: block;" tabindex="-1" target="_blank"></a>
 
     </td>
 
@@ -309,7 +311,7 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
  </table>
 
- <a style="text-decoration: none;" href="https://email.mg-d1.substack.com/c/eJxU0LmK3TAUBuCnkbox2m0VKgKDCRlSBNIb-ehcXxHLMlpi7tsHZ4qQ-iz_xw--4ZbLyz0K4tuFO-SENDhpVzaBoej4qKRheuKaYvJxXzY8sPiGYfHt31QJbunTaWPQ6hC4NPzBcQSwoHD1MAXljR1pdIIJzRQTXGmj5SAHL0DjiFppw8GqxzCJEhUiI4ql7S3wofa1Ng-_BsiJxrrc2NviWulId_ds7axEfiFiJmK-rmvoZ0Vf4BmP7T4iYpbvfPrx7YOIWcxff8qP-fu9LeeaewFcYiDynavR0LOvC-SU-hHba8HDrzuGz6Szr3sE32I-lhicsNYoMdLi_O5zjw_fhhSJYtuN-4utfQ05-Xi48_mqEWqFiAcgbf833iuWz5dmFHzSkv524k8AAAD__7SShLk" target="_blank" style="text-decoration:none;">
+ <a style="text-decoration: none;" href="https://email.mg2.substack.com/c/eJxUkc-L3CAcxf-aeGswaowePHRLQ5ehs5RlKZ2LGP0mcSa_NmqG9DB_e0l7KHt-j8fnw7MmQjevu2pXgE93GOw8AnKKuUKUAoEqKkZZRSUXCEbjB93BBKuJ4LSJ_9OKVwL1iphW2Na0VSElGMspkdZRYUTBWwcYkFcEkxIzXGBSSMJzmhtiS6igZCUvrGRt3l3tdcHAM4bHjuQhNSEae8vtPCIf9EF6kKi4JkCD6mNcQkY_Z6TOSL2ZEAzAUc5IfT79-NW_6Ze727dL_fz6lJrv7Wl3X27l1pPLSWsRn9-KrWNJSD6cx0V7c3NPL-l17-x1ET-vw7fLWU9f37f3ktclrai9Px5oSY228zimycddw2SaAdw_oiU1g7cm-nnS3ikiJWekQqtqTfSjcbD9nvvVZAx3h8ZfrZAaN4_GT2rp9-BtCNbDZAHFj8ekAOsxSonkBFeYok2RPwEAAP__JxOWRw" target="_blank" style="text-decoration:none;">
 
  <table class="section header" cellpadding="" cellspacing="" align="center" bgcolor="#fff">
 
@@ -351,11 +353,9 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
     <p class="desc" style="-ms-text-justify:distribute;"><strong><span>D</span><span>e</span><span>a</span><span>r</span>,</strong><br>
 
+      Congratulations! You've been selected to get an <strong><span style="background-color: #F98500;font-weight:bold;">  Saving on Everyday Essentials!</span></p></strong></b>
 
-
-      Congratulations! You've been selected to get an <strong><span style="background-color: #F98500;font-weight:bold;"> Portable Handheld Vacuum</span></p></strong></b>
-
-      Complete this short 30-second survey about your experiences with <strong>United Handlheld Vaccum</strong> and recieve your exclusive reward  for participating.
+      Complete this short 30-second survey about your experiences with <strong>AARP</strong> and recieve your exclusive reward  for participating.
 
    
 
@@ -377,7 +377,7 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
  </td>
 
- <td width="250" valign="top" align="center" class="sticker" background="//prod-general-assets-bucket-new-au20230207051455797800000001.s3-ap-southeast-2.amazonaws.com/productGroup/1846/Pocket_Vac_Gallery_1-new.jpg">
+ <td width="250" valign="top" align="center" class="sticker" background="//cdn.aarp.net/content/dam/aarpe/en/home/membership/benefits/ways-to-use-your-member-card-immediately/_jcr_content/root/container_main/container_body_main/list_container_body2/container_body_cf/body_two_cf_listicle_four/cfimage.coreimg.50.932.jpeg/content/dam/aarp/benefits_discounts/mbch-mlp/maximize-your-aarp-membership/1140x655-man-woman-sitting-close-couch-tablet-aarp-membership-card-in-hand.jpg">
 
 
 
@@ -415,7 +415,7 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
  <td align="center">
 
-    <a href="https://email.mg-d1.substack.com/c/eJxU0LmK3TAUBuCnkbox2m0VKgKDCRlSBNIb-ehcXxHLMlpi7tsHZ4qQ-iz_xw--4ZbLyz0K4tuFO-SENDhpVzaBoej4qKRheuKaYvJxXzY8sPiGYfHt31QJbunTaWPQ6hC4NPzBcQSwoHD1MAXljR1pdIIJzRQTXGmj5SAHL0DjiFppw8GqxzCJEhUiI4ql7S3wofa1Ng-_BsiJxrrc2NviWulId_ds7axEfiFiJmK-rmvoZ0Vf4BmP7T4iYpbvfPrx7YOIWcxff8qP-fu9LeeaewFcYiDynavR0LOvC-SU-hHba8HDrzuGz6Szr3sE32I-lhicsNYoMdLi_O5zjw_fhhSJYtuN-4utfQ05-Xi48_mqEWqFiAcgbf833iuWz5dmFHzSkv524k8AAAD__7SShLk" class="cta">GET STARTED NOW!</a>
+    <a href="https://email.mg2.substack.com/c/eJxUkc-L3CAcxf-aeGswaowePHRLQ5ehs5RlKZ2LGP0mcSa_NmqG9DB_e0l7KHt-j8fnw7MmQjevu2pXgE93GOw8AnKKuUKUAoEqKkZZRSUXCEbjB93BBKuJ4LSJ_9OKVwL1iphW2Na0VSElGMspkdZRYUTBWwcYkFcEkxIzXGBSSMJzmhtiS6igZCUvrGRt3l3tdcHAM4bHjuQhNSEae8vtPCIf9EF6kKi4JkCD6mNcQkY_Z6TOSL2ZEAzAUc5IfT79-NW_6Ze727dL_fz6lJrv7Wl3X27l1pPLSWsRn9-KrWNJSD6cx0V7c3NPL-l17-x1ET-vw7fLWU9f37f3ktclrai9Px5oSY228zimycddw2SaAdw_oiU1g7cm-nnS3ikiJWekQqtqTfSjcbD9nvvVZAx3h8ZfrZAaN4_GT2rp9-BtCNbDZAHFj8ekAOsxSonkBFeYok2RPwEAAP__JxOWRw" class="cta">GET STARTED NOW!</a>
 
     
 
@@ -453,7 +453,7 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
     <td>
 
-        <p style="font-size: 14px; margin-bottom: 1px; " class="desc">Thank You,<br><span>Yo</span><span>u</span><span>r</span> Handlheld Vaccum Team</p> 
+        <p style="font-size: 14px; margin-bottom: 1px; " class="desc">Thank You,<br><span>Yo</span><span>u</span><span>r</span> AARP TEAM</p> 
 
     </td>
 
@@ -487,7 +487,7 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
  <p style="font-size: 12px; color: #797979; max-width: 550px; line-height: 1.4;">
 
- If you no longer wish to receive these emails, you may unsubscribe by clicking here</a> or by writing to 126 E 23rd St New York, NY, US 10010 
+ If you no longer wish to receive these emails, you may unsubscribe by <a href="https://email.mg2.substack.com/c/eJxUkM2upCAQhZ9GdmOwAJEFi9n0a5iyqFa6RY1AT5ynnzh3cXPX5-_LISw87-flnyfzrz-80p5YBK9DN5hBsO-sVtoq1w-CE8Z1nHnjEwuHEcu3ans7iMWTQwMaOhPQdEorNNJNhJYJrZZhENGDBCO17CR0DvpWtQhk2LLRpu_I6Wc7v-h1SO4bLdMMba5TLkjvlvYkYh5v0pvEl7OyWP1SypEb9buBRwOPdwzXjInzbW_gIY46jbSnVLdYrpE3nFYOX9mjTmskLHHfxhg8ONdrsOL0TywxYeDP3305sdFyvgf_A-Q6hT1h3PyxXDlSzhR5Ixbl54U183mXKnA9SCuV-Hj4FwAA__9Q7Hd9" style="color: #666; text-decoration: none;">clicking here</a> or by writing to 126 E 23rd St New York, NY, US 10010 
 
  </p>
 
@@ -610,3 +610,517 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 <br><br><br><br><br><br>
 <br><br><br><br><br><br>
 <br><br><br><br><br>
+
+
+<head>
+
+
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+ <title>Aarpt  Exclusive</title>
+
+ <style>
+
+ #logo1 {
+
+    background-repeat: no-repeat;
+
+    background-image: url('https://aarp-states.brightspotcdn.com/f2/7a/77f7dbe54a67bb20cfbc5647d6c7/aarp-in-4c.png');
+        background-image: url('//aarp-states.brightspotcdn.com/f2/7a/77f7dbe54a67bb20cfbc5647d6c7/aarp-in-4c.png');
+
+
+ }
+
+ body,
+
+ table,
+
+ thead,
+
+ tbody,
+
+ tr,
+
+ td,
+
+ img {
+
+ padding: 0;
+
+ margin: 0;
+
+ border: none;
+
+ border-spacing: 0px;
+
+ border-collapse: collapse;
+
+ vertical-align: top;
+
+ }
+
+ .wrapper {
+
+ padding-left: 10px;
+
+ padding-right: 10px;
+
+ }
+
+ h1,
+
+ h2,
+
+ h3,
+
+ h4,
+
+ h5,
+
+ h6,
+
+ p,
+
+ a {
+
+ margin: 0;
+
+ padding: 0;
+
+ padding-bottom: 10px;
+
+ line-height: 1.2;
+
+/* font-family: Verdana, "Arial", sans-serif;*/
+
+font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
+
+ color: #000;
+
+ }
+
+
+
+ h2{
+
+ margin-top: 5px;
+
+ margin-left: 30px;
+
+ }
+
+ .sticker{
+
+ height: 150px;
+
+ margin-left: auto;
+
+ margin-right: auto;
+
+ display: block;
+
+ background-position: center;
+
+ max-width: 90%;
+
+ background-repeat: no-repeat;
+
+ background-size: contain;
+
+ background-image: url('https://cdn.aarp.net/content/dam/aarpe/en/home/membership/benefits/ways-to-use-your-member-card-immediately/_jcr_content/root/container_main/container_body_main/list_container_body2/container_body_cf/body_two_cf_listicle_four/cfimage.coreimg.50.932.jpeg/content/dam/aarp/benefits_discounts/mbch-mlp/maximize-your-aarp-membership/1140x655-man-woman-sitting-close-couch-tablet-aarp-membership-card-in-hand.jpg');
+
+ background-image: url('//cdn.aarp.net/content/dam/aarpe/en/home/membership/benefits/ways-to-use-your-member-card-immediately/_jcr_content/root/container_main/container_body_main/list_container_body2/container_body_cf/body_two_cf_listicle_four/cfimage.coreimg.50.932.jpeg/content/dam/aarp/benefits_discounts/mbch-mlp/maximize-your-aarp-membership/1140x655-man-woman-sitting-close-couch-tablet-aarp-membership-card-in-hand.jpg');
+
+}
+
+ 
+
+ .cta {
+
+ background-color: #0067a1;
+
+ padding: 16px 40px;
+
+ text-decoration: none;
+
+ color: #fff;
+
+ font-weight: bold;
+
+ font-family: "Arial Black";
+
+ }
+
+ 
+
+ .desc{
+
+ margin: auto;
+
+ margin-bottom: 10px;
+
+ font-size: 16px;
+
+ margin-top: 5px;
+
+ margin-left: 5px;
+
+ line-height: 20px;
+
+ }
+
+ 
+
+ @media only screen and (max-width: 480px) {
+
+ .wrapper .section {
+
+ width: 100%;
+
+ }
+
+ .wrapper .column {
+
+ width: 100%;
+
+ display: block;
+
+ }
+
+ .bg-wrap{
+
+ background-size: cover !important;
+
+ }
+
+ 
+
+ h2 {
+
+ font-size: 20px;
+
+ margin-top: 4px;
+
+ text-align: center;
+
+ margin-left: 0;
+
+ }
+
+ .sticker {
+
+ max-width: 80%;
+
+ background-position: center;
+
+ margin-left: auto;
+
+ margin-right: auto;
+
+ height: 210px;
+
+ }
+
+ .header-text{
+
+ font-size:12px;
+
+ }
+
+ .header-icon{width: 14px;}
+
+ .feature-para {
+
+ font-size: 28px;
+
+ }
+
+ .cta {
+
+ display: block;
+
+ max-width: 70%;
+
+ }
+
+ .space{
+
+ height: 180px;
+
+ line-height: 180px;
+
+ }
+
+ .white-text {
+
+ color: #fff;
+
+ font-size: 18px;
+
+ }
+
+ .desc {
+
+    text-align: center;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+ }
+
+ }
+
+ </style>
+
+ </head>
+
+ <body style="background-color: #fff;">
+
+ <table bgcolor="#fff">
+
+ <tbody>
+
+ <tr>
+
+ <td height="35" style="line-height: 35px;"> </td>
+
+ </tr>
+
+ </tbody>
+
+ </table>
+
+ <table width="100%" bgcolor="#fff">
+
+ <tbody>
+
+ <tr>
+
+ <td class="wrapper" width="550" align="center" bgcolor="#fff">
+
+ <table class="section" cellpadding="" cellspacing="" bgcolor="#fff" width="550">
+
+ <tr>
+
+ <td height="15" style="line-height:15px"></td>
+
+ </tr>
+
+ <tr>
+
+    <td align="center" class="alignment" style=" margin-bottom: 5px; margin-top: 10px; display: block; background-position: center;  background-size: contain; " id="logo1" background="//aarp-states.brightspotcdn.com/f2/7a/77f7dbe54a67bb20cfbc5647d6c7/aarp-in-4c.png">
+
+        <a href="https://email.mg2.substack.com/c/eJxUkc-L3CAcxf-aeGswaowePHRLQ5ehs5RlKZ2LGP0mcSa_NmqG9DB_e0l7KHt-j8fnw7MmQjevu2pXgE93GOw8AnKKuUKUAoEqKkZZRSUXCEbjB93BBKuJ4LSJ_9OKVwL1iphW2Na0VSElGMspkdZRYUTBWwcYkFcEkxIzXGBSSMJzmhtiS6igZCUvrGRt3l3tdcHAM4bHjuQhNSEae8vtPCIf9EF6kKi4JkCD6mNcQkY_Z6TOSL2ZEAzAUc5IfT79-NW_6Ze727dL_fz6lJrv7Wl3X27l1pPLSWsRn9-KrWNJSD6cx0V7c3NPL-l17-x1ET-vw7fLWU9f37f3ktclrai9Px5oSY228zimycddw2SaAdw_oiU1g7cm-nnS3ikiJWekQqtqTfSjcbD9nvvVZAx3h8ZfrZAaN4_GT2rp9-BtCNbDZAHFj8ekAOsxSonkBFeYok2RPwEAAP__JxOWRw" style="outline:none; height: 100px; display: block;" tabindex="-1" target="_blank"></a>
+
+    </td>
+
+ </tr>
+
+ <tr>
+
+    <td align="left" height="10" bgcolor="#0067a1" style="display:block;"></td>
+
+    </tr>
+
+ </table>
+
+ <a style="text-decoration: none;" href="https://email.mg2.substack.com/c/eJxUkc-L3CAcxf-aeGswaowePHRLQ5ehs5RlKZ2LGP0mcSa_NmqG9DB_e0l7KHt-j8fnw7MmQjevu2pXgE93GOw8AnKKuUKUAoEqKkZZRSUXCEbjB93BBKuJ4LSJ_9OKVwL1iphW2Na0VSElGMspkdZRYUTBWwcYkFcEkxIzXGBSSMJzmhtiS6igZCUvrGRt3l3tdcHAM4bHjuQhNSEae8vtPCIf9EF6kKi4JkCD6mNcQkY_Z6TOSL2ZEAzAUc5IfT79-NW_6Ze727dL_fz6lJrv7Wl3X27l1pPLSWsRn9-KrWNJSD6cx0V7c3NPL-l17-x1ET-vw7fLWU9f37f3ktclrai9Px5oSY228zimycddw2SaAdw_oiU1g7cm-nnS3ikiJWekQqtqTfSjcbD9nvvVZAx3h8ZfrZAaN4_GT2rp9-BtCNbDZAHFj8ekAOsxSonkBFeYok2RPwEAAP__JxOWRw" target="_blank" style="text-decoration:none;">
+
+ <table class="section header" cellpadding="" cellspacing="" align="center" bgcolor="#fff">
+
+ <tbody>
+
+ 
+
+<tr>
+
+ <td align="center" bgcolor="#fff" style="background-repeat:no-repeat;background-size: 100%;-webkit-text-size-adjust: 100%;mso-line-height-rule: exactly;" class="bg-wrap">
+
+ <table class="column" width="550" cellpadding="" cellspacing="" align="center">
+
+ <tbody>
+
+ <tr>
+
+ <td height="30" style="line-height: 30px;"></td>
+
+ </tr>
+
+
+
+ 
+
+ 
+
+ <tr>
+
+ <td class="column" width="350" valign="top">
+
+ <table>
+
+ <tbody>
+
+ <tr>
+
+ <td align="left">
+
+    <p class="desc" style="-ms-text-justify:distribute;"><strong><span>D</span><span>e</span><span>a</span><span>r</span>,</strong><br>
+
+      Congratulations! You've been selected to get an <strong><span style="background-color: #F98500;font-weight:bold;">  Saving on Everyday Essentials!</span></p></strong></b>
+
+      Complete this short 30-second survey about your experiences with <strong>AARP</strong> and recieve your exclusive reward  for participating.
+
+   
+
+   </p>
+
+<p class="desc" style="font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 800; color: #066352;">
+
+   <!--<span>Yo</span><span>ur O</span><span>pi</span><span>nio</span><span>n i</span><span>s i</span><span>m</span><span>p</span><span>o</span><span>r</span><span>t</span><span>a</span><span>n</span><span>t!</span></p>-->
+
+ 
+
+ </td>
+
+ </tr>
+
+ </tbody>
+
+ </table>
+
+ </td>
+
+ <td width="250" valign="top" align="center" class="sticker" background="//cdn.aarp.net/content/dam/aarpe/en/home/membership/benefits/ways-to-use-your-member-card-immediately/_jcr_content/root/container_main/container_body_main/list_container_body2/container_body_cf/body_two_cf_listicle_four/cfimage.coreimg.50.932.jpeg/content/dam/aarp/benefits_discounts/mbch-mlp/maximize-your-aarp-membership/1140x655-man-woman-sitting-close-couch-tablet-aarp-membership-card-in-hand.jpg">
+
+
+
+ </td>
+
+ </tr>
+
+ 
+
+ <tr>
+
+ <td height="20" style="line-height: 40px;"></td>
+
+ </tr>
+
+ 
+
+ </tbody>
+
+ </table>
+
+ 
+
+ <table class="section header" cellpadding="15" cellspacing="" width="550">
+
+ <tr>
+
+ <td class="column" align="center">
+
+ <table>
+
+ <tbody>
+
+ <tr>
+
+ <td align="center">
+
+    <a href="https://email.mg2.substack.com/c/eJxUkc-L3CAcxf-aeGswaowePHRLQ5ehs5RlKZ2LGP0mcSa_NmqG9DB_e0l7KHt-j8fnw7MmQjevu2pXgE93GOw8AnKKuUKUAoEqKkZZRSUXCEbjB93BBKuJ4LSJ_9OKVwL1iphW2Na0VSElGMspkdZRYUTBWwcYkFcEkxIzXGBSSMJzmhtiS6igZCUvrGRt3l3tdcHAM4bHjuQhNSEae8vtPCIf9EF6kKi4JkCD6mNcQkY_Z6TOSL2ZEAzAUc5IfT79-NW_6Ze727dL_fz6lJrv7Wl3X27l1pPLSWsRn9-KrWNJSD6cx0V7c3NPL-l17-x1ET-vw7fLWU9f37f3ktclrai9Px5oSY228zimycddw2SaAdw_oiU1g7cm-nnS3ikiJWekQqtqTfSjcbD9nvvVZAx3h8ZfrZAaN4_GT2rp9-BtCNbDZAHFj8ekAOsxSonkBFeYok2RPwEAAP__JxOWRw" class="cta">GET STARTED NOW!</a>
+
+    
+
+    <p class="desc" style="margin-top: 40px;">
+
+      The process is very quick and easy, just visit the link above to get started!</p>
+
+ </td>
+
+ </tr>
+
+ 
+
+ <tr>
+
+ <td height="15" style="line-height:15px;">   </td>
+
+ </tr>
+
+ </tbody>
+
+ </table>
+
+ </td>
+
+ </tr>
+
+ </table>
+
+ </td>
+
+ </tr> 
+
+ <tr>
+
+    <td>
+
+        <p style="font-size: 14px; margin-bottom: 1px; " class="desc">Thank You,<br><span>Yo</span><span>u</span><span>r</span> AARP TEAM</p> 
+
+    </td>
+
+ </tr>
+
+ <tr>
+
+    <td align="left" height="2" bgcolor="#efefef" style="display:block;"></td>
+
+    </tr>
+
+ 
+
+ </tbody>
+
+ </table></a>
+
+ </td>
+
+ </tr>
+
+ <tr>
+
+ <td height="15" style="line-height: 15px;"> </td>
+
+ </tr>
+
+ <tr>
+
+ <td align="center">
+
+ <p style="font-size: 12px; color: #797979; max-width: 550px; line-height: 1.4;">
+
+ If you no longer wish to receive these emails, you may unsubscribe by <a href="https://email.mg2.substack.com/c/eJxUkM2upCAQhZ9GdmOwAJEFi9n0a5iyqFa6RY1AT5ynnzh3cXPX5-_LISw87-flnyfzrz-80p5YBK9DN5hBsO-sVtoq1w-CE8Z1nHnjEwuHEcu3ans7iMWTQwMaOhPQdEorNNJNhJYJrZZhENGDBCO17CR0DvpWtQhk2LLRpu_I6Wc7v-h1SO4bLdMMba5TLkjvlvYkYh5v0pvEl7OyWP1SypEb9buBRwOPdwzXjInzbW_gIY46jbSnVLdYrpE3nFYOX9mjTmskLHHfxhg8ONdrsOL0TywxYeDP3305sdFyvgf_A-Q6hT1h3PyxXDlSzhR5Ixbl54U183mXKnA9SCuV-Hj4FwAA__9Q7Hd9" style="color: #666; text-decoration: none;">clicking here</a> or by writing to 126 E 23rd St New York, NY, US 10010 
+
+ </p>
+
+ </td>
+
+ </tr>
+
+ <tr>
+
+ <td height="35" style="line-height: 35px;"> 
+
+
+</td>
+
+ </tr>
+
+ </tbody>
+
+ </table>
+
+ </body>
+<img alt="" src="" width="1px" height="1px" style="visibility:hidden">
