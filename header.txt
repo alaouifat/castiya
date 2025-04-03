@@ -1101,7 +1101,7 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
  <p style="font-size: 12px; color: #797979; max-width: 550px; line-height: 1.4;">
 
- If you no longer wish to receive these emails, you may unsubscribe by <a href="https://email.mg2.substack.com/c/eJxUkM2upCAQhZ9GdmOwAJEFi9n0a5iyqFa6RY1AT5ynnzh3cXPX5-_LISw87-flnyfzrz-80p5YBK9DN5hBsO-sVtoq1w-CE8Z1nHnjEwuHEcu3ans7iMWTQwMaOhPQdEorNNJNhJYJrZZhENGDBCO17CR0DvpWtQhk2LLRpu_I6Wc7v-h1SO4bLdMMba5TLkjvlvYkYh5v0pvEl7OyWP1SypEb9buBRwOPdwzXjInzbW_gIY46jbSnVLdYrpE3nFYOX9mjTmskLHHfxhg8ONdrsOL0TywxYeDP3305sdFyvgf_A-Q6hT1h3PyxXDlSzhR5Ixbl54U183mXKnA9SCuV-Hj4FwAA__9Q7Hd9" style="color: #666; text-decoration: none;">clicking here</a> or by writing to 126 E 23rd St New York, NY, US 10010 
+ If you no longer wish to receive these emails, you may unsubscribe by clicking here</a> or by writing to 126 E 23rd St New York, NY, US 10010 
 
  </p>
 
