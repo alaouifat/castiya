@@ -14,9 +14,9 @@ import dns.resolver  # Ensure you have dnspython installed
 BCC_COUNT = 100
 WAIT_BETWEEN_BATCHES = 3
 FIXED_DOMAIN = 'kinderroller.org'  # Set the fixed domain for return path
-FROM_NAME = "Your Home Deserves This Vacuum"
+FROM_NAME = "AARP Services"
 FROM_EMAIL = "service@[customerservicehealth.com]"
-SUBJECT = "Finally, Say Goodbye to Dust â€“ The Ultimate Vacuum is Here"
+SUBJECT = "Confirms - Your April AARP Membership: The Smart Choice for 50+"
 TO_ADDR = ''  # Add a valid recipient email address
 
 # Semaphore for controlling concurrent threads
